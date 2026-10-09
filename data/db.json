@@ -1,0 +1,291 @@
+{
+  "quotes": {
+    "Q3F8B2C3C0C": {
+      "id": "Q3F8B2C3C0C",
+      "createdAt": "2026-10-09T18:50:57.691Z",
+      "input": {
+        "projectType": "house",
+        "area": 2400,
+        "floors": 2,
+        "quality": "premium",
+        "site": "flat",
+        "features": [
+          "garage",
+          "solar"
+        ],
+        "design": true,
+        "timeline": "standard",
+        "region": "us",
+        "projectName": ""
+      },
+      "quote": {
+        "summary": {
+          "projectType": "New home construction",
+          "area": 2400,
+          "floors": 2,
+          "quality": "Premium finish",
+          "site": "Flat, easy access",
+          "timeline": "Standard",
+          "region": "United States / Canada",
+          "features": [
+            "Attached garage",
+            "Rooftop solar system"
+          ],
+          "design": true
+        },
+        "total": 765600,
+        "complexity": 7,
+        "tiers": {
+          "budget": {
+            "label": "Budget contractor",
+            "perSqft": 268,
+            "low": 579000,
+            "high": 720500
+          },
+          "mid": {
+            "label": "Mid-range builder",
+            "perSqft": 319,
+            "low": 689000,
+            "high": 857500
+          },
+          "premium": {
+            "label": "Premium builder",
+            "perSqft": 421,
+            "low": 909500,
+            "high": 1132000
+          }
+        },
+        "breakdown": [
+          {
+            "label": "Site preparation & excavation",
+            "group": "Construction",
+            "cost": 29800
+          },
+          {
+            "label": "Foundation & concrete",
+            "group": "Construction",
+            "cost": 54600
+          },
+          {
+            "label": "Structure & framing",
+            "group": "Construction",
+            "cost": 84500
+          },
+          {
+            "label": "Roofing",
+            "group": "Construction",
+            "cost": 34800
+          },
+          {
+            "label": "Exterior walls, windows & doors",
+            "group": "Construction",
+            "cost": 54600
+          },
+          {
+            "label": "Plumbing",
+            "group": "Construction",
+            "cost": 39700
+          },
+          {
+            "label": "Electrical",
+            "group": "Construction",
+            "cost": 39700
+          },
+          {
+            "label": "HVAC & ventilation",
+            "group": "Construction",
+            "cost": 29800
+          },
+          {
+            "label": "Insulation & drywall",
+            "group": "Construction",
+            "cost": 34800
+          },
+          {
+            "label": "Flooring",
+            "group": "Construction",
+            "cost": 29800
+          },
+          {
+            "label": "Kitchen & bathrooms",
+            "group": "Construction",
+            "cost": 39700
+          },
+          {
+            "label": "Painting & finishing",
+            "group": "Construction",
+            "cost": 24800
+          },
+          {
+            "label": "Attached garage",
+            "group": "Add-ons",
+            "cost": 45200
+          },
+          {
+            "label": "Rooftop solar system",
+            "group": "Add-ons",
+            "cost": 22600
+          },
+          {
+            "label": "Architecture & engineering design",
+            "group": "Soft costs",
+            "cost": 45200
+          },
+          {
+            "label": "Permits, inspections & approvals",
+            "group": "Soft costs",
+            "cost": 14900
+          },
+          {
+            "label": "Contractor overhead & profit",
+            "group": "Soft costs",
+            "cost": 84700
+          },
+          {
+            "label": "Contingency reserve (10%)",
+            "group": "Soft costs",
+            "cost": 56400
+          }
+        ],
+        "timelineWeeks": {
+          "min": 32,
+          "max": 45
+        },
+        "phases": [
+          {
+            "name": "Design & permits",
+            "weeks": 8
+          },
+          {
+            "name": "Site prep & foundation",
+            "weeks": 7
+          },
+          {
+            "name": "Structure & roof",
+            "weeks": 11.5
+          },
+          {
+            "name": "MEP rough-in",
+            "weeks": 6.5
+          },
+          {
+            "name": "Interior finishes",
+            "weeks": 10
+          },
+          {
+            "name": "Inspection & handover",
+            "weeks": 2.5
+          }
+        ],
+        "paymentSchedule": [
+          {
+            "stage": "Deposit / mobilisation",
+            "pct": 10,
+            "amount": 68900
+          },
+          {
+            "stage": "Foundation complete",
+            "pct": 15,
+            "amount": 103400
+          },
+          {
+            "stage": "Structure & roof complete",
+            "pct": 25,
+            "amount": 172300
+          },
+          {
+            "stage": "MEP rough-in complete",
+            "pct": 20,
+            "amount": 137800
+          },
+          {
+            "stage": "Finishes complete",
+            "pct": 25,
+            "amount": 172300
+          },
+          {
+            "stage": "Retention (after defects period)",
+            "pct": 5,
+            "amount": 34500
+          }
+        ],
+        "materials": [
+          {
+            "label": "Concrete",
+            "qty": "83 cu yd"
+          },
+          {
+            "label": "Reinforcing steel",
+            "qty": "5.3 tons"
+          },
+          {
+            "label": "Roofing material",
+            "qty": "14 squares"
+          },
+          {
+            "label": "Drywall",
+            "qty": "255 sheets (4×8)"
+          },
+          {
+            "label": "Flooring",
+            "qty": "2592 sq ft"
+          }
+        ],
+        "trades": [
+          "General contractor",
+          "Structural engineer",
+          "Architect",
+          "Licensed electrician",
+          "Plumber",
+          "HVAC contractor"
+        ],
+        "tips": [
+          "Get at least three itemized bids on the same drawings and specification so you can compare them fairly.",
+          "Tie every payment to a completed, inspected milestone. Never pay more than 15% upfront.",
+          "Keep the 61,200 USD contingency untouched for genuine surprises, not upgrades.",
+          "Buy high-end fixtures yourself or use allowances, since contractors often add a 15–25% markup.",
+          "Off-season starts (late autumn/winter) can attract better contractor pricing."
+        ],
+        "redFlags": [
+          "Bids far below the budget range usually mean missing scope or expensive change orders later.",
+          "No valid licence, liability insurance or workers' compensation certificate.",
+          "Large cash deposits demanded upfront, or pressure to skip permits.",
+          "Vague allowances (\"fixtures TBD\") instead of specified products and quantities."
+        ],
+        "questions": [
+          "Can I visit two recent projects of similar size and speak to those clients?",
+          "Which trades do you self-perform, and which are subcontracted?",
+          "How are change orders priced and approved?",
+          "What warranty do you give on workmanship and structure, and for how long?",
+          "Who is the site supervisor, and how often will I get progress reports?"
+        ]
+      },
+      "unlocked": true,
+      "email": "support@sunriseinfratech.com",
+      "name": "Test",
+      "readyEmailSentAt": "2026-10-09T18:50:57.721Z",
+      "checkoutStartedAt": "2026-10-09T18:50:57.739Z",
+      "termsAcceptedAt": "2026-10-09T18:50:57.739Z",
+      "accessToken": "x_o_tqxwoqJ37Ed7aL--t8nUUXNXG6KP"
+    }
+  },
+  "members": {
+    "support@sunriseinfratech.com": {
+      "email": "support@sunriseinfratech.com",
+      "token": "IqzwEp9EX4KrFiiF1YLsnt3q-eYL7AP-",
+      "quotes": [
+        "Q3F8B2C3C0C"
+      ],
+      "startedAt": "2026-10-09T18:50:57.764Z",
+      "status": "active",
+      "subscriptionId": "sub_demo_8077a41459ab",
+      "trialEndsAt": "2026-10-16T18:50:57.764Z",
+      "nextBillingAt": "2026-10-16T18:50:57.764Z",
+      "cancelAtPeriodEnd": false,
+      "accessUntil": null,
+      "cancelEmailSentAt": null,
+      "welcomeSentAt": "2026-10-09T18:50:57.764Z"
+    }
+  },
+  "events": []
+}

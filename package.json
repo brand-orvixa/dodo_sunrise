@@ -1,0 +1,25 @@
+{
+  "name": "sunrise-quote",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sunrise Quote - instant website cost quotations with Dodo Payments checkout",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -n server,client -c yellow,magenta \"node --watch server/index.js\" \"npm --prefix client run dev\"",
+    "build": "npm --prefix client install && npm --prefix client run build",
+    "start": "NODE_ENV=production node server/index.js",
+    "postinstall": "npm --prefix client install",
+    "emails:preview": "node server/previewEmails.js"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemailer": "^6.10.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
