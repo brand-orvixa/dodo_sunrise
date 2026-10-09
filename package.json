@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "description": "Sunrise Quote - instant website cost quotations with Dodo Payments checkout",
-  "type": "module",
   "scripts": {
     "dev": "concurrently -n server,client -c yellow,magenta \"node --watch server/index.js\" \"npm --prefix client run dev\"",
     "build": "npm --prefix client install && npm --prefix client run build",
